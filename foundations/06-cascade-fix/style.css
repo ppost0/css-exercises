@@ -23,12 +23,13 @@
   font-weight: bold;
 }
 
-.child {
-  color: red;
-  font-size: 14px;
-}
 
 div.text {
   color: green;
   font-size: 22px;
+}
+
+div.text.child {
+  color: red;
+  font-size: 14px;
 }
