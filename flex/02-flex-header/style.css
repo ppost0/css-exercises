@@ -31,14 +31,3 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
-
-
-.left-links {
-  /* justify-content: space-around; */
-  /* margin-right: auto; */
-}
-
-.right-links {
-  /* justify-content: space-around; */
-  /* margin-left: auto; */
-}
